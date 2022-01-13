@@ -1,0 +1,72 @@
+
+Dhar is sending data to Koustav--------------------
+Total packet sent = 589
+Effective packet sent = 220
+Total time taken = 1.966312 minutes
+Throughput =   1074 bps
+Efficiency percentage =  26.85 %
+Successfull transmission time = 0.536267 seconds/packet
+
+
+Hello is sending data to Dhar--------------------
+Total packet sent = 695
+Effective packet sent = 220
+Total time taken = 2.434412 minutes
+Throughput =    867 bps
+Efficiency percentage =  21.69 %
+Successfull transmission time = 0.663931 seconds/packet
+
+
+Koustav is sending data to World--------------------
+Total packet sent = 685
+Effective packet sent = 220
+Total time taken = 2.435289 minutes
+Throughput =    867 bps
+Efficiency percentage =  21.68 %
+Successfull transmission time = 0.664170 seconds/packet
+
+
+Koustav is sending data to Jonty--------------------
+Total packet sent = 1421
+Effective packet sent = 512
+Total time taken = 4.638916 minutes
+Receiver Throughput =   1059 bps
+Utilization percentage =  26.49 %
+Average Successful Transmission time of a packet = 0.543623 seconds/packet
+
+
+Koustav is sending data to Jonty--------------------
+Total packet sent = 228
+Effective packet sent = 74
+Total time taken = 0.808594 minutes
+Receiver Throughput =    878 bps
+Utilization percentage =  21.96 %
+Average Successful Transmission time of a packet = 0.655617 seconds/packet
+
+
+Koustav is sending data to Jonty--------------------
+Total packet sent = 428
+Effective packet sent = 128
+Total time taken = 1.537719 minutes
+Receiver Throughput =    799 bps
+Utilization percentage =  19.98 %
+Average Successful Transmission time of a packet = 0.720806 seconds/packet
+
+
+Koustav is sending data to Jonty--------------------
+Total packet sent = 163
+Effective packet sent = 64
+Total time taken = 0.547786 minutes
+Receiver Throughput =   1121 bps
+Utilization percentage =  28.04 %
+Average Successful Transmission time of a packet = 0.513549 seconds/packet
+
+# Round Trip Time
+Koustav is sending data to Dhar--------------------
+Total packet sent = 563
+Effective packet sent = 512
+Total time taken = 0.590322 minutes
+Receiver Throughput =   8326 bps
+Utilization percentage = 208.16 %
+Average Successful Transmission time of a packet = 0.069178 seconds/packet
+

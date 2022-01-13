@@ -1,0 +1,48 @@
+
+Test run report with 2 senders--------------------
+Total packet sent = 73
+Total collision occured = 9
+Total time taken = 0.338956 minutes
+Throughput = 0.876712 packets per timeslot
+Delay per packet = 0.317771 seconds
+
+
+Test run report with 4 senders--------------------
+Total packet sent = 71
+Total collision occured = 7
+Total time taken = 0.829622 minutes
+Throughput = 0.901408 packets per timeslot
+Delay per packet = 0.777770 seconds
+
+
+Test run report with 6 senders--------------------
+Total packet sent = 67
+Total collision occured = 3
+Total time taken = 1.256717 minutes
+Throughput = 0.955224 packets per timeslot
+Delay per packet = 1.178172 seconds
+
+
+Test run report with 8 senders--------------------
+Total packet sent = 70
+Total collision occured = 6
+Total time taken = 1.690981 minutes
+Throughput = 0.914286 packets per timeslot
+Delay per packet = 1.585295 seconds
+
+
+Test run report with 10 senders--------------------
+Total packet sent = 71
+Total collision occured = 7
+Total time taken = 2.181649 minutes
+Throughput = 0.901408 packets per timeslot
+Delay per packet = 2.045296 seconds
+
+
+Test run report with 2 senders--------------------
+Total packet sent = 64
+Total collision occured = 0
+Total time taken = 0.331225 minutes
+Throughput = 1.000000 packets per timeslot
+Delay per packet = 0.310523 seconds
+

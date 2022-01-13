@@ -1,0 +1,91 @@
+
+Test run report with 2 senders--------------------
+Total packet sent = 184 per sender
+Total time taken = 9.332400 seconds
+Effective bandwidth = 39 bps
+Successful Transmission Time = 0.050720 seconds per packet
+
+
+Test run report with 10 senders--------------------
+Total packet sent = 184 per sender
+Total time taken = 9.347966 seconds
+Effective bandwidth = 196 bps
+Successful Transmission Time = 0.050804 seconds per packet
+
+
+Test run report with 20 senders--------------------
+Total packet sent = 187 per sender
+Total time taken = 9.475069 seconds
+Effective bandwidth = 395 bps
+Successful Transmission Time = 0.050669 seconds per packet
+
+
+Test run report with 30 senders--------------------
+Total packet sent = 184 per sender
+Total time taken = 9.411381 seconds
+Effective bandwidth = 586 bps
+Successful Transmission Time = 0.051149 seconds per packet
+
+
+Test run report with 40 senders--------------------
+Total packet sent = 186 per sender
+Total time taken = 9.569721 seconds
+Effective bandwidth = 781 bps
+Successful Transmission Time = 0.051450 seconds per packet
+
+
+Test run report with 50 senders--------------------
+Total packet sent = 186 per sender
+Total time taken = 9.628984 seconds
+Effective bandwidth = 970 bps
+Successful Transmission Time = 0.051769 seconds per packet
+
+
+Test run report with 64 senders--------------------
+Total packet sent = 192 per sender
+Total time taken = 10.339566 seconds
+Effective bandwidth = 1193 bps
+Successful Transmission Time = 0.053852 seconds per packet
+
+
+Test run report with 70 senders--------------------
+Total packet sent = 131 per sender
+Total time taken = 8.012574 seconds
+Effective bandwidth = 1150 bps
+Successful Transmission Time = 0.061165 seconds per packet
+
+
+Test run report with 65 senders--------------------
+Total packet sent = 133 per sender
+Total time taken = 7.472186 seconds
+Effective bandwidth = 1159 bps
+Successful Transmission Time = 0.056182 seconds per packet
+
+
+Test run report with 80 senders--------------------
+Total packet sent = 84 per sender
+Total time taken = 5.210309 seconds
+Effective bandwidth = 1299 bps
+Successful Transmission Time = 0.062027 seconds per packet
+
+
+Test run report with 10 senders--------------------
+Total packet sent = 184 per sender
+Total time taken = 9.377276 seconds
+Effective bandwidth = 196 bps
+Successful Transmission Time = 0.050963 seconds per packet
+
+
+Test run report with 65 senders--------------------
+Total packet sent = 33 per sender
+Total time taken = 2.413535 seconds
+Effective bandwidth = 894 bps
+Successful Transmission Time = 0.073137 seconds per packet
+
+
+Test run report with 20 senders--------------------
+Total packet sent = 184 per sender
+Total time taken = 9.374350 seconds
+Effective bandwidth = 392 bps
+Successful Transmission Time = 0.050948 seconds per packet
+

@@ -1,0 +1,63 @@
+
+Koustav is sending data to Dhar--------------------
+Total packet sent = 345
+Effective packet sent = 220
+Total time taken = 4.915476 minutes
+Throughput =    429 bps
+Efficiency percentage =  10.74 %
+Successfull transmission time = 1.340584 seconds/packet
+
+
+Koustav is sending data to Dhar--------------------
+Total packet sent = 119
+Effective packet sent = 74
+Total time taken = 1.802930 minutes
+Throughput =    394 bps
+Efficiency percentage =   9.85 %
+Successfull transmission time = 1.461835 seconds/packet
+
+
+Koustav is sending data to Jonty--------------------
+Total packet sent = 843
+Effective packet sent = 512
+Total time taken = 12.805894 minutes
+Receiver Throughput =    383 bps
+Utilization percentage =   9.60 %
+Average Successful Transmission time of a packet = 1.500691 seconds/packet
+
+
+Koustav is sending data to Dhar--------------------
+Total packet sent = 32
+Effective packet sent = 16
+Total time taken = 0.603711 minutes
+Receiver Throughput =    254 bps
+Utilization percentage =   6.36 %
+Average Successful Transmission time of a packet = 2.263918 seconds/packet
+
+
+Koustav is sending data to Jonty--------------------
+Total packet sent = 212
+Effective packet sent = 128
+Total time taken = 3.271548 minutes
+Receiver Throughput =    375 bps
+Utilization percentage =   9.39 %
+Average Successful Transmission time of a packet = 1.533538 seconds/packet
+
+
+Koustav is sending data to Jonty--------------------
+Total packet sent = 99
+Effective packet sent = 64
+Total time taken = 1.386673 minutes
+Receiver Throughput =    443 bps
+Utilization percentage =  11.08 %
+Average Successful Transmission time of a packet = 1.300005 seconds/packet
+
+# Round Trip Time
+Koustav is sending data to Dhar--------------------
+Total packet sent = 522
+Effective packet sent = 512
+Total time taken = 1.091832 minutes
+Receiver Throughput =   4501 bps
+Utilization percentage = 112.54 %
+Average Successful Transmission time of a packet = 0.127949 seconds/packet
+
