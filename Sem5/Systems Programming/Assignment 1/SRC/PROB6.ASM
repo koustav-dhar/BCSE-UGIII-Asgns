@@ -1,0 +1,26 @@
+.model small
+.stack 100h
+.data
+linefeed db 13, 10, "$"
+.code
+main proc
+           MOV AX,@data
+           MOV DS,AX
+
+           MOV AH,01H
+           INT 21H
+           MOV BL,AL
+
+           MOV AH,09H
+           MOV DX, offset linefeed
+           INT 21H
+           MOV DL,BL
+           MOV AH,02H
+           INT 21H
+
+           MOV AH,4CH
+           INT 21H
+main endp
+end
+
+

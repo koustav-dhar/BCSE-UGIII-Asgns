@@ -1,0 +1,27 @@
+.model small
+.stack 100h
+.data
+mess db "BAZINGA!$"
+ter db "Terminating...$"
+linefeed db 13, 10, "$"
+.code
+main proc
+        MOV AX,@data
+        MOV DS,AX
+
+        MOV AH,09H
+        MOV DX, offset mess
+        INT 21H
+
+        MOV AH,09H
+        MOV DX, offset linefeed
+        INT 21H
+
+        MOV AH,09H
+        MOV DX, offset ter
+        INT 21H
+
+        MOV AH,4CH
+        INT 21H
+main endp
+end
